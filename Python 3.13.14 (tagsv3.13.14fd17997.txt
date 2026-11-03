@@ -1,0 +1,64 @@
+Python 3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+========================================================================= RESTART: C:/Users/yukes/DAY 1 FILE.py ========================================================================
+
+Map Coloring Solution:
+A : Red
+B : Green
+C : Blue
+D : Red
+
+ |   |  
+---------
+  |   |  
+---------
+  |   |  
+Enter position (1-9): 1
+X |   |  
+---------
+  |   |  
+---------
+  |   |  
+Enter position (1-9): 2
+X | O |  
+---------
+  |   |  
+---------
+  |   |  
+Enter position (1-9): 3
+X | O | X
+---------
+  |   |  
+---------
+  |   |  
+Enter position (1-9): 4
+X | O | X
+---------
+O |   |  
+---------
+  |   |  
+Enter position (1-9): 5
+X | O | X
+---------
+O | X |  
+---------
+  |   |  
+Enter position (1-9): 6
+X | O | X
+---------
+O | X | O
+---------
+  |   |  
+Enter position (1-9): 7
+X | O | X
+---------
+O | X | O
+---------
+X |   |  
+X Wins!
+Minimax Optimal Value: 12
+Alpha-Beta Optimal Value: 12
+
+Optimal Value: 12
+Optimal Value: 12
